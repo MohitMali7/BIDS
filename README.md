@@ -7,6 +7,11 @@ Overview:
 This project focuses on building a machine learning model to classify SMS messages as spam or non-spam (ham). The model uses natural language processing (NLP) techniques to analyze the text content of messages and make predictions.
 
 
-
-
+Dataset:
 The data directory should contain the data sets for the projects
+
+
+Connect with Me:
+
+LinkedIn: www.linkedin.com/in/mohit-mali
+Twitter: @MohitMali07
